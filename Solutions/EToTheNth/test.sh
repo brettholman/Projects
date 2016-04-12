@@ -1,6 +1,6 @@
 #/bin/bash
 
-# Recompiles the file "Pi.cpp" and runs test suite.
+# Recompiles the file "E.cpp" and runs test suite.
 	
 make clean > /dev/null 2>&1
 

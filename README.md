@@ -5,15 +5,15 @@ Numbers
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[My Solution](https://github.com/brettholman/Projects/tree/master/Solutions/PiToTheNth)
+[My Solution(C++)](https://github.com/brettholman/Projects/tree/master/Solutions/C%2B%2B/PiToTheNth)
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
-[My Solution](https://github.com/brettholman/Projects/tree/master/Solutions/EToTheNth)
+[My Solution(C++)](https://github.com/brettholman/Projects/tree/master/Solutions/C%2B%2B/EToTheNth)
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-[My Solution](https://github.com/brettholman/Projects/tree/master/Solutions/FibonacciSequence)
+[My Solution(C++)](https://github.com/brettholman/Projects/tree/master/Solutions/C%2B%2B/FibonacciSequence)
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
@@ -140,7 +140,7 @@ Classes
 **Airline / Hotel Reservation System** - Create a reservation system which books airline seats or hotel rooms. It charges various rates for particular sections of the plane or hotel. Example, first class is going to cost more than coach. Hotel rooms have penthouse suites which cost more. Keep track of when rooms will be available and can be scheduled.
 
 **Company Manager** - Create an hierarchy of classes - abstract class Employee and subclasses HourlyEmployee, SalariedEmployee, Manager and Executive. Every one's pay is calculated differently, research a bit about it.
-After you've established an employee hierarchy, create a Company class that allows you to manage the employees. You should be able to hire, fire and raise employees. 
+After you've established an employee hierarchy, create a Company class that allows you to manage the employees. You should be able to hire, fire and raise employees.
 
 **Bank Account Manager** - Create a class called Account which will be an abstract class for three other classes called CheckingAccount, SavingsAccount and BusinessAccount. Manage credits and debits from these accounts through an ATM style program.
 

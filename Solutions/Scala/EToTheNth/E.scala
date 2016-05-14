@@ -10,6 +10,7 @@ object E {
       println("There must be exactly one argument passed to this program")
       return
     }
+    
     if(args(0)(0) != '-') {
       if(!isAllDigits(args(0))) {
         println("You can not pass a non numeric value into this program.")

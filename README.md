@@ -6,10 +6,12 @@ Numbers
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
 [My Solution(C++)](https://github.com/brettholman/Projects/tree/master/Solutions/C%2B%2B/PiToTheNth)
+[My Solution(Scala)](https://github.com/brettholman/Projects/tree/master/Solutions/Scala/PiToTheNth)
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
 [My Solution(C++)](https://github.com/brettholman/Projects/tree/master/Solutions/C%2B%2B/EToTheNth)
+[My Solution(Scala)](https://github.com/brettholman/Projects/tree/master/Solutions/Scala/EToTheNth)
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
